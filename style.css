@@ -1,0 +1,117 @@
+
+
+body{
+    background-image: url("sfondo.jpg");
+}
+.container1{
+  width: 1200px;
+  height: 850px;
+  border: solid 2px black;
+  background-color: black;
+  opacity:  45%;
+  position: relative;
+  top: 30px;
+  left: 400px;
+  border-radius: 20px;
+}
+.container2{
+  width: 1200px;
+  height: 800px;
+  position: absolute;
+  top: 30px;
+  left: 400px;
+
+}
+.logo{
+
+  width: 20%;
+  opacity: 100%;
+  position: relative;
+  left: 450px;
+  top: 100px;
+}
+
+.title{
+  font-size:  30px;
+  font-family: sans-serif;
+  position: relative;
+  left: 350px;
+  top: 100px;
+  color: lime;
+}
+ .row{
+  width: 1004px;
+  height: 45px;
+  background-color: lime;
+  position: relative;
+  left: 100px;
+  top: 100px;
+}
+.selettore{
+  display: inline-block;
+  position: relative;
+  left: 300px;
+  top: 8px;
+}
+.indicazionimonopattini{
+  font-family: cursive;
+  color: white;
+  position: relative;
+  left: 100px;
+  top: 100px;
+}
+li{
+  list-style-type: square;
+  position: relative;
+  left: 0px;
+  top: 0px;
+
+}
+
+.nomemonopattino{
+  font-size: 30px;
+}
+
+.rowcarica1{
+   width: 400px;
+   height: 35px;
+   border-radius: 7px;
+   background-color: sandybrown;
+   position: relative;
+   left: 0px;
+   top: 0px;
+
+}
+
+.rowcarica2{
+   width: 600px;
+   height: 35px;
+   border-radius: 7px;
+   background-color: #66CD00;
+   position: relative;
+   left: 0px;
+   top: 0px;
+
+}
+
+.rowcarica3{
+   width: 150px;
+   height: 35px;
+   border-radius: 7px;
+   background-color: #EE3B3B;
+   position: relative;
+   left: 0px;
+   top: 0px;
+}
+.credits{
+  color: white;
+  position: relative;
+  left: 300px;
+  top: 150px;
+}
+
+#firma{
+  font-style: oblique;
+  font-size: 30px;
+
+}
